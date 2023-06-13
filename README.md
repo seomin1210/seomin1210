@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomin1210&show_icons=true&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seomin1210&layout=compact&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomin1210&show_icons=true&theme=algolia) <div style="text-align: right">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seomin1210&layout=compact&theme=algolia)</>
 
 <!--
 **seomin1210/seomin1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
